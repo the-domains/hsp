@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[HSP]]></title>
         <description><![CDATA[HSP]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hsp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 09:51:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 15 May 2016 05:32:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hsp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[When to take painkillers and other medicine?]]></title>
+            <description><![CDATA[<h1>When to take painkillers and other medicine?</h1>]]></description>
+            <link>https://thegrid.ai/hsp/when-to-take-painkillers-and-other-medicine/index.html</link>
+            <guid isPermaLink="false">20255425-6a88-4cd7-910e-587e88612f9f</guid>
+            <pubDate>Sun, 15 May 2016 05:32:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d18fb1f2-568a-43cd-9022-c2d2a97ecfe3.jpg">]]></description>
-            <link>undefined61d2d70a-d2c9-4d39-a745-cebd46d608d5/index.html</link>
+            <link>https://thegrid.ai/hsp/61d2d70a-d2c9-4d39-a745-cebd46d608d5/index.html</link>
             <guid isPermaLink="false">61d2d70a-d2c9-4d39-a745-cebd46d608d5</guid>
             <pubDate>Sat, 05 Mar 2016 09:51:05 GMT</pubDate>
         </item>
